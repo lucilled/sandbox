@@ -1,3 +1,7 @@
 my doc
 
+head:
 Some stuff I did on the computer.
+master:
+Some stuff I did on git.
+
